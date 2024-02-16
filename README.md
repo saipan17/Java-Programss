@@ -16,3 +16,6 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 4.Write a program for reverse a number in java.
 
+
+5. Write a program to arrange a list in ascending order according to the salaries.
+
