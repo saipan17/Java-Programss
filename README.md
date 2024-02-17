@@ -13,9 +13,9 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 3.Write a program to find the element from an array using binary search ?
 
-
 4.Write a program for reverse a number in java.
 
+5.Write a program to arrange a list in ascending order according to the salaries.
 
-5. Write a program to arrange a list in ascending order according to the salaries.
+6.write a program to print prime numbers between 1 to 100 ?
 
