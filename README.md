@@ -19,3 +19,6 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 6.write a program to print prime numbers between 1 to 100 ?
 
+7.Write a program to reverse a string in java ?
+
+8.Write a program to check wheather given number is armstrong number or not ?
