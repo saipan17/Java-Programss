@@ -22,3 +22,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 7.Write a program to reverse a string in java ?
 
 8.Write a program to check wheather given number is armstrong number or not ?
+
+9.Write a program to sort the elements of array in asending order.
