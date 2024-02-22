@@ -26,3 +26,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 9.Write a program to sort the elements of array in asending order.
 
 10.Write a program to sort the elements of array in desending order.
+
+11.Write a program to find the duplicate elements from an array ?
