@@ -28,3 +28,7 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 10.Write a program to sort the elements of array in desending order.
 
 11.Write a program to find the duplicate elements from an array ?
+
+12.Write a program to find max element from an array ?
+
+13.Write a program to find min element from an array ?
