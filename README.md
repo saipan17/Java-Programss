@@ -32,3 +32,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 12.Write a program to find max element from an array ?
 
 13.Write a program to find min element from an array ?
+
+14.Print a Pyramid pattern in java ?
