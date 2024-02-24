@@ -34,3 +34,6 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 13.Write a program to find min element from an array ?
 
 14.Print a Pyramid pattern in java ?
+
+15.Write a program to return the name of employee whose salary is greater then 60000 using Stream in java ?
+
