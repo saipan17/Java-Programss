@@ -41,3 +41,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 17.Write a program to check wheater a given a number is prime or not ?
 
+18.Write a program to find the factorial of a given number ?
+
