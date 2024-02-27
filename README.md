@@ -43,3 +43,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 18.Write a program to find the factorial of a given number ?
 
+19.Write a program to find the largest number among three number using ternary operator ?
+
