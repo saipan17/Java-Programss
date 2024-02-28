@@ -51,3 +51,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 22.Write a program to find sum of all elements of the array ?
 
+23.Write a program to print the elements of array in reverse order ?
+
