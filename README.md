@@ -49,3 +49,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 21.Write a program to find sum of all natural numbers ?
 
+22.Write a program to find sum of all elements of the array ?
+
