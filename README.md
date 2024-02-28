@@ -47,3 +47,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 20.Write a program to check wheater a given number is palindrome number or not ?
 
+21.Write a program to find sum of all natural numbers ?
+
