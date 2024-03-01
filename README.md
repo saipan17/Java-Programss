@@ -53,3 +53,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 23.Write a program to print the elements of array in reverse order ?
 
+24.Write a program to print the odd and even numbers from an array ?
+
