@@ -55,3 +55,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 24.Write a program to print the odd and even numbers from an array ?
 
+25.Write a program to add two matrices.
+
