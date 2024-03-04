@@ -59,3 +59,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 26.Write a program to multiply two matrices.
 
+27.Write a program to count the total number of vowels in the string ?
+
