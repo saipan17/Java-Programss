@@ -61,3 +61,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 27.Write a program to count the total number of vowels in the string ?
 
+28.Java program to find a duplicate characters in a String ?
+
