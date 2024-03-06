@@ -63,3 +63,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 28.Java program to find a duplicate characters in a String ?
 
+29.Right Triangle pattern in java ?
+
