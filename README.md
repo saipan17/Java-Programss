@@ -65,3 +65,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 29.Right Triangle pattern in java ?
 
+30.Inverted Right triangle pattern in java ?
+
