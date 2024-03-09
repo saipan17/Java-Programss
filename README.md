@@ -67,3 +67,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 30.Inverted Right triangle pattern in java ?
 
+31.Java code to generate the Floyd's Triangle pattern ?
+
