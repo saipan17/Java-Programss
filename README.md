@@ -72,3 +72,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 32.Write a java program to find the smallest number among three number using the ternary operator ?
 
 33.Write a program to check wheather two given Strings are anagram Strings or not ?
+
+34.Java Prpgram to calculate total number of Punctuation characters in a given String ?
