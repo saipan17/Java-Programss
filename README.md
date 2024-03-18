@@ -74,3 +74,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 33.Write a program to check wheather two given Strings are anagram Strings or not ?
 
 34.Java Prpgram to calculate total number of Punctuation characters in a given String ?
+
+35.Java program to copy all elements of array into another array ?
