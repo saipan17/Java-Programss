@@ -76,3 +76,6 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 34.Java Prpgram to calculate total number of Punctuation characters in a given String ?
 
 35.Java program to copy all elements of array into another array ?
+
+36.Java Program to display the lower triangular matrix.
+
