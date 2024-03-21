@@ -10,6 +10,12 @@ public class LowerTriangular
                     
               int rows = a.length;
               int cols = a.length;
+
+             if(rows != cols){
+
+              System.out.println("Matrix should be square matrix");
+
+            }
               
               
               for(int i = 0; i<rows; i++){
