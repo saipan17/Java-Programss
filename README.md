@@ -79,3 +79,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 36.Write a Java Program to display the lower triangular matrix ??
 
+37.Wirte a java Program to display the upper triangular matrix ?
+
