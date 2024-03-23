@@ -77,5 +77,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 35.Java program to copy all elements of array into another array ?
 
-36.Write a Java Program to display the lower triangular matrix
+36.Write a Java Program to display the lower triangular matrix ??
 
