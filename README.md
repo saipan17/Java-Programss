@@ -81,3 +81,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 37.Wirte a java Program to display the upper triangular matrix ?
 
+38.Java Program to check wheather two matrices are equals or not ?
+
