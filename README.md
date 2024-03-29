@@ -83,3 +83,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 38.Java Program to check wheather two matrices are equals or not ??
 
+39.java Program to transpose the matrix.
+
