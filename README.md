@@ -85,3 +85,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 39.java Program to transpose the matrix.
 
+40.Find mean of two numbers using java8 feature lambda expression ??
+
