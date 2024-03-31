@@ -87,3 +87,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 40.Find mean of two numbers using java8 feature lambda expression ??
 
+41.find the square of each number in a list and then filter out the even squares using lambda expression and streams ?
+
