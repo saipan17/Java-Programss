@@ -41,7 +41,7 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 17.Write a program to check wheater a given a number is prime or not ?
 
-18.Write a program to find the factorial of a given number ?
+18.Write a program to find the factorial of a given number using java8 ?
 
 19.Write a program to find the largest number among three number using ternary operator ?
 
@@ -88,4 +88,6 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 40.Find mean of two numbers using java8 feature lambda expression ??
 
 41.find the square of each number in a list and then filter out the even squares using lambda expression and streams ?
+
+42.Write a java program to find the marks of student greater then 80 ?
 
