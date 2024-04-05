@@ -89,5 +89,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 41.find the square of each number in a list and then filter out the even squares using lambda expression and streams ?
 
-42.Write a java program to find the names of the students whose marks greater then 80 ?
+42.Write a java program to find the names of the students whose marks greater then 80 ??
 
