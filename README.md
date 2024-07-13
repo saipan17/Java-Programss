@@ -93,3 +93,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 43.Write a program to sum the even numbers from an array using java8 features ?
 
+44.write a program to generate a random number in java ?
+
