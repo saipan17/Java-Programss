@@ -91,7 +91,5 @@ For this problem, I have implemented a method that sorts the elements in ascendi
 
 42.Write a java program to find the names of the students whose marks greater then 80 ??
 
-43.Write a program to sum the even numbers from an array using java8 features ?
-
-44.write a program to generate a random number in java ?
+43.write a program to generate a random number in java ?
 
